@@ -1,1 +1,0 @@
-"""NAD Local Push integration."""
